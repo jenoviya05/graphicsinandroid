@@ -48,14 +48,35 @@ Registeration Number : 212225040151
     android:orientation="vertical"
     android:background="#D3D3D3">
 
+    <!-- Space for Camera -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="55dp"/>
+
+    <!-- Experiment Topic -->
+    <TextView
+        android:id="@+id/topicText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Basic Graphical Primitives"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:padding="12dp"
+        android:background="#D3D3D3"/>
+
+    <!-- Graphics Output -->
     <ImageView
         android:id="@+id/graphicsView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:scaleType="fitCenter"
         android:contentDescription="Graphics Output"/>
 
 </LinearLayout>
+
 
 ~~~
 
