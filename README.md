@@ -177,12 +177,12 @@ public class MainActivity extends AppCompatActivity {
 
 ## ACTIVITY_MAIN.XML :
 
-<img width="1917" height="1078" alt="Screenshot 2026-11-25 105110" src="https://github.com/user-attachments/assets/57937fdb-2e53-487b-8cb0-15d2a0cac159" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-25 122138" src="https://github.com/user-attachments/assets/2e154948-c3a6-45a4-81f3-269fa0144817" />
 
 
 ## MAINACTIVITY.JAVA :
 
-<img width="1917" height="1078" alt="Screenshot 2026-11-25 105055" src="https://github.com/user-attachments/assets/01e1ef17-c906-4b3d-a0cf-12644bc00a62" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-25 122151" src="https://github.com/user-attachments/assets/bf3d9de0-6b4b-4dfa-9a5f-8f7f6d9c473b" />
 
 
 
